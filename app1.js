@@ -261,7 +261,7 @@ function updatePrice() {
 }
 
 var whatsappLink =
-  "https://api.whatsapp.com/send?phone=971501537841&text=Order%20details";
+  "https://api.whatsapp.com/send?phone=91000000000&text=Order%20details";
 
 function updateWhatsappLink() {
   if (book1.quantity != 0) {
